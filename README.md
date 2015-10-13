@@ -1,3 +1,3 @@
 # Python
 
-Some Python projects
+Some Personal Python projects
